@@ -11,7 +11,7 @@ This repository contains the implementation of **SAN (Slicing Adversarial Networ
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/SAN-MRI-Reconstruction.git
+   git clone https://github.com/libya123/san-mri-reconstruction.git
    cd SAN-MRI-Reconstruction
    ```
 2. Install dependencies:
