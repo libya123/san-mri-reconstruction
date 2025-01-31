@@ -1,0 +1,11 @@
+SAN-MRI-Reconstruction/
+│── dataset/                   # FastMRI Dataset Loader
+│── models/                    # SAN Model Architecture
+│── utils/                      # Helper functions
+│── train.py                    # Training script
+│── test.py                     # Testing script
+│── requirements.txt            # Python dependencies
+│── README.md                   # Project documentation
+│── LICENSE                     # Open-source license
+│── download_fastmri.py         # Script to download FastMRI dataset
+│── .gitignore                  # Ignore unnecessary files
