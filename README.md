@@ -1,7 +1,7 @@
 # Slicing Adversarial Network (SAN) for MRI Reconstruction
 
 ## Overview
-This repository contains the implementation of **SAN (Slicing Adversarial Network)** for **MRI reconstruction**.
+This repository contains the implementation of **SAN (Slicing Adversarial Network)** for **MRI reconstruction**. Also this is a miniature version. The complete source code is restricted to share at this moment since the work is a part of the PhD thesis and will be made available on request to libyathomas123@gmail.com.
 
 ## Features
 - **Multi-Resolution Generator**
